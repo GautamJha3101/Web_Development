@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+.style1{
+ color: #cf9e17;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: 56px;
+ margin-left: 30px;
+ padding: 25px;
+} 
+b{
+    border: 5px groove blue;
+}
+table,th,td{
+    border: 2px solid greenyellow;
+
+}
